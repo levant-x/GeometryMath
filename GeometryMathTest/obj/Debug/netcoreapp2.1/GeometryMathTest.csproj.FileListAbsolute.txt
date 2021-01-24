@@ -1,0 +1,17 @@
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMathTest\bin\Debug\netcoreapp2.1\GeometryMath.dll
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMathTest\obj\Debug\netcoreapp2.1\GeometryMathTest.csprojAssemblyReference.cache
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMathTest\obj\Debug\netcoreapp2.1\GeometryMathTest.csproj.CoreCompileInputs.cache
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMathTest\obj\Debug\netcoreapp2.1\GeometryMathTest.AssemblyInfoInputs.cache
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMathTest\obj\Debug\netcoreapp2.1\GeometryMathTest.AssemblyInfo.cs
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMathTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMathTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMathTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMathTest\bin\Debug\netcoreapp2.1\GeometryMathTest.deps.json
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMathTest\bin\Debug\netcoreapp2.1\GeometryMathTest.runtimeconfig.json
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMathTest\bin\Debug\netcoreapp2.1\GeometryMathTest.runtimeconfig.dev.json
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMathTest\bin\Debug\netcoreapp2.1\GeometryMathTest.dll
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMathTest\bin\Debug\netcoreapp2.1\GeometryMathTest.pdb
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMathTest\bin\Debug\netcoreapp2.1\GeometryMath.pdb
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMathTest\obj\Debug\netcoreapp2.1\GeometryMathTest.csproj.CopyComplete
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMathTest\obj\Debug\netcoreapp2.1\GeometryMathTest.dll
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMathTest\obj\Debug\netcoreapp2.1\GeometryMathTest.pdb

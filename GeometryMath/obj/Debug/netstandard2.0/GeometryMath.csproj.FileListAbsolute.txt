@@ -1,0 +1,9 @@
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMath\bin\Debug\netstandard2.0\GeometryMath.deps.json
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMath\bin\Debug\netstandard2.0\GeometryMath.dll
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMath\bin\Debug\netstandard2.0\GeometryMath.pdb
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMath\obj\Debug\netstandard2.0\GeometryMath.csprojAssemblyReference.cache
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMath\obj\Debug\netstandard2.0\GeometryMath.csproj.CoreCompileInputs.cache
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMath\obj\Debug\netstandard2.0\GeometryMath.AssemblyInfoInputs.cache
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMath\obj\Debug\netstandard2.0\GeometryMath.AssemblyInfo.cs
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMath\obj\Debug\netstandard2.0\GeometryMath.dll
+D:\Документы\Служебные документы\РБИУ\Работа программиста\GeometryMath\GeometryMath\obj\Debug\netstandard2.0\GeometryMath.pdb
